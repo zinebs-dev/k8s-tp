@@ -6,11 +6,10 @@
 
 \*\*Année universitaire :\*\* 2026/2027  
 
-\*\*Module :\*\* Kubernetes  
+\*\*Module :\*\* Virtualisation et Cloud Computing  
 
 \*\*TP :\*\* TP 4 – Kubernetes  
 
-\*\*Binôme :\*\* À compléter
 
 
 
